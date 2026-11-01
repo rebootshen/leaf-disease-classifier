@@ -1,4 +1,4 @@
-# apple-leaf-disease-classifier
+# leaf-disease-classifier
 
 Multi-label classification of apple leaf diseases for the Plant Pathology 2021 (FGVC8) Kaggle competition.
 
